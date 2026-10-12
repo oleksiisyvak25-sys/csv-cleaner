@@ -1,0 +1,9 @@
+name,email,signup_date,city
+  anna   KOVAL ,Anna.Koval@Example.com,2024-03-05,kyiv
+Anna Koval,anna.koval@example.com,05.03.2024,KYIV
+ Petro Shevchenko,petro@example.com,12/04/2024,  Lviv
+Olena Bondar,olena@example.com,"Mar 7, 2024",Odesa
+Ivan  Melnyk,,2024-01-15,Kharkiv
+,nobody@example.com,2024-02-01,Dnipro
+Maria Tkach,maria@example.com,not a date,Kyiv
+Petro Shevchenko,PETRO@example.com,12 Apr 2024,lviv
